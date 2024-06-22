@@ -1,0 +1,1 @@
+Machine Learning project with deployment to predict weather a student consumes alocohol or not.
